@@ -79,7 +79,7 @@ void usage(const char *program_name) {
     fprintf(stderr,
             "Usage: %s N\n\n"
             "Arguments:\n"
-            "  N       Number of linked list elements\n",
+            "  N       Number of vector elements\n",
             program_name);
 }
 
